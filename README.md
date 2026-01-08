@@ -51,9 +51,9 @@ This change is done only to demonstrate how failures are detected and recorded.
 
 🔹 6. Tools Used
 
-Node.js
-Playwright
-JavaScript
+Node.js,
+Playwright,
+JavaScript,
 Postman
 
 🔹 7. What I Learned
